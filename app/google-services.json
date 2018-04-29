@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "131993419024",
+    "firebase_url": "https://akelny-c8c7d.firebaseio.com",
+    "project_id": "akelny-c8c7d",
+    "storage_bucket": "akelny-c8c7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131993419024:android:ef0d4f731039527b",
+        "android_client_info": {
+          "package_name": "com.example.mohamed.akelnyresturant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131993419024-tj8lfnsfg5oqein1jo8ps79io2p4g4sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKFky3krE2Y9eH1TonpnYCsSg1U9bOjcs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131993419024:android:299a12179f528ec6",
+        "android_client_info": {
+          "package_name": "com.example.mohamed.akelny_serverside"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131993419024-tj8lfnsfg5oqein1jo8ps79io2p4g4sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKFky3krE2Y9eH1TonpnYCsSg1U9bOjcs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
